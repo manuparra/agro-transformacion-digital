@@ -17,7 +17,7 @@ A medida que los CIO y los CTO siguen asumiendo un papel más estratégico en el
 
 Este trinomio, datos, IA y Cloud está en el centro de la estrategia de las organizaciones de todos los sectores. La transformación hasta la fecha ha sido sorprendente: en promedio, una quinta parte de las nuevas aplicaciones desarrolladas incorporan la IA, y más de la mitad de las organizaciones ya han desplegado y desarrollado estos tres elementos, tanto en funciones de back-office y de cara al cliente, incluyendo el servicio al cliente , operaciones de TI , operaciones comerciales y la automatización de procesos.
 
-En el caso concreto de la Agricultura, este conjunto de herramientas puede implicar una mejora en multiples aspectos como:
+En Agricultura, este conjunto de herramientas puede implicar una mejora en multiples aspectos como:
 
 - Prevención y detección de enfermedades
 - Predicción de cosechas
@@ -33,4 +33,27 @@ En el caso concreto de la Agricultura, este conjunto de herramientas puede impli
 - Relación con los clientes
 - Mejora de la calidad del producto
 - ...
+
+Las motivaciones en el sector de la Agricultura para implantar los datos, IA y Cloud son diversas, entre ellas:
+1. modernizar los procesos empresariales (24%) y los productos o servicios (21%), 
+  - De forma general se tiende a asociar el sector Agrario como un sector no preparado para la innovación o la transformación digital, lo cual no es cierto. El campo y la agricultura provee de una marco de trabajo ideal para poner en marcha una transformación digital a todos los niveles. Un ejemplo claro podría ser la mejora de los procesos empresariales, dar un servicio o producir productos con mejor calidad:
+    - Adoptar sistemas y herramientas que provean de bases de conocimiento empresarial
+    - Desplegar un sistema integrado ERP, BI, ...
+    - Progresar hacía una eliminación del papel
+    - Optimización de recursos en producción: Agua, Fitosanitarios, pesticidas, materiales, ... 
+    - Inclusión de herramientas de trazabilidad
+    - Adopción de elementos de sensorización para las plantaciones y cultivos
+    - Uso de CRMs
+    - Integración de Cloud
+    - ...
+3. la automatización de la toma de decisiones, 
+- Es fundamental tener la capacidad de tomar decisiones basadas en hechos y fundamentadas en datos que se generan en la empresa, la plantación y los diferentes cultivos. De este modo la capacidad de tomar decisiones buenas repercute en todos los procesos, ofreciendo mejoras sustanciales hacia el conocimiento de la propia actividad Agrícola.
+    - Herramientas para la toma de decisiones.
+    - Implatanción de software para Inteligiencia de Negocio
+    - ...
+5. mejorar las experiencias de los clientes, y 
+6. automatizar flujos de trabajo y procesos. 
+
+Estos factores pueden ser diferetes según el sector, el tamaño o las necesidades individuales de una empresa en concreto. Por ejemplo, las empresas más pequeñas son más propensas a la reducción de costes, mientras que las organizaciones más grandes se centran más en ser más competitivas.
+
 
