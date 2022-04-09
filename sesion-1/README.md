@@ -52,7 +52,11 @@ Las motivaciones en el sector de la Agricultura para implantar los datos, IA y C
     - Implatanción de software para Inteligiencia de Negocio
     - ...
 5. mejorar las experiencias de los clientes, y 
-6. automatizar flujos de trabajo y procesos. 
+    - Otro objetivo clave en la transformación digital es ofrecen una mejor experiencia (digital o no) a los clientes que consuman nuestros productos, por ejemplo. Esta mejora de la experiencia de usuario puede ser atacada desde varios frentes, por ejemplo si nos centramos en el ámbito digital, podriamos comentar los siguientes aspectos de mejora:
+      - Ofrecer acceso a herramientas y servicios para los cliente -digitales-  sobre el producto. Un ejemplo de esto sería, utilizar un sistema que permita a los cliente y consumidores seguir la trazabilidad del producto mediante un código QR. 
+      - Proveer de una mejor plataforma, por ejemplo web para la venta del producto de manera online.
+      - ...
+7. automatizar flujos de trabajo y procesos. 
 
 Estos factores pueden ser diferetes según el sector, el tamaño o las necesidades individuales de una empresa en concreto. Por ejemplo, las empresas más pequeñas son más propensas a la reducción de costes, mientras que las organizaciones más grandes se centran más en ser más competitivas.
 
