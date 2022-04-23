@@ -12,3 +12,4 @@
 ## Material del caso de uso
 - Caso de uso con datos planos: https://cloud.google.com/vertex-ai
 - Caso de uso con imagenes: https://cloud.google.com/vertex-ai/docs/start/automl-model-types#image
+- AI Automática: watson de IBM.
