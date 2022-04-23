@@ -1,7 +1,9 @@
 # Sesión 2
 
 - Mapa estratégico (a realizar en la sesión 2)
-- 
+- Empresas con DATO como activo clave.
+- Modelo de Pila de AI (Inteligencia Artificial): 
+![AISTACK](./aistack.png)
 
 
 
