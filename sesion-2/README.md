@@ -16,6 +16,11 @@
 - Modelo de Pila de AI (Inteligencia Artificial): 
 ![AISTACK](./aistack.png)
 
+Caso de uso 4:
+
+- Digitalización de documentación.
+- Parte de proyecto de desarrollo social basado en indicadores.
+- Búsqueda de la relacion entre bienestar social, medioambiente y entorno humano - bienestar animal. ¿es posible?.
 
 
 ## Material adicional
@@ -28,3 +33,7 @@
 - Caso de uso con datos planos: https://cloud.google.com/vertex-ai
 - Caso de uso con imagenes: https://cloud.google.com/vertex-ai/docs/start/automl-model-types#image
 - AI Automática: watson de IBM.
+
+## Proyectos desarrollo Rural
+- https://ec.europa.eu/info/food-farming-fisheries/key-policies/common-agricultural-policy/rural-development_en
+- 
