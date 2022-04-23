@@ -1,7 +1,18 @@
 # Sesión 2
 
 - Mapa estratégico (a realizar en la sesión 2)
-- Empresas con DATO como activo clave.
+- Empresas con DATO como activo clave:
+  -  Sector AGRIGULTURA:
+    -  https://www.prospera.ag/
+    -  https://www.fieldin.com/
+    -  https://trellis.ag/
+    -  ...
+  -  Sector GANADO/AVES
+    -  https://www.tibot.fr/
+    -  http://poultry.proultry.com/videos/faromatics/chickenboy-the-smart-broiler-robot
+    -  https://www.tastingtable.com/754854/how-artificial-intelligence-could-change-the-dairy-farming-industry/
+    -  https://www.bbc.com/news/business-59635186
+    -  ...
 - Modelo de Pila de AI (Inteligencia Artificial): 
 ![AISTACK](./aistack.png)
 
