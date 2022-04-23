@@ -1,5 +1,7 @@
 # Sesión 2
 
+- Mapa estratégico (a realizar en la sesión 2)
+- 
 
 
 
